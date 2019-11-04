@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akutansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM Menwa</item>
+        <item>LPM Dimensi</item>
+        <item>UKM PECC</item>
+        <item>UKM PP</item>
+        <item>UKM KSR</item>
+        <item>UKM KWU</item>
+        <item>UKM Kopma BM</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan akutansi untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Administrasi Bisnis untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disingkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak di bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satu-satunya unit kegiatan mahasiswa di Politeknik Negeri Semarang yang bergerak di bidang Kesenian. Nama UKM Komunitas Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu-satunya sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dalam bidang seni dan berorganisasi.</item>
+        <item>UKM Resimen Mahasiswa ini diberi nama PATI GENI. UKM ini merupakan wadah aktualisasi para mahasiswa dalam usaha bela negara. Dimana anggotaya mampu mengembangkan manajemen pertahanan diri sendiri dengan cara menumbuhkan sikap disiplin, mematangkan mentalitas dan moralitas agar kiprah dan cita-cita dapat berjalan satu garis</item>
+        <item>LPM Dimensi merupakan satu-satunya Lembaga Pers Mahasiswa (LPM) yang berada di lingkaran Keluarga Besar Mahasiswa (KBM) Politeknik Negeri Semarang. Kami memang tidak tahu tanggal pasti kapan berdirinya LPM Dimensi. Kami pun sudah mencari-cari tahu dan hasilnya tetap tidak ada kepastian.</item>
+        <item>UKM PECC merupakan unit kegiatan mahasiswa yang bertujuan untuk meningkatkan kemampuan penggunaan keterampilan berbahasa Inggris bagi anggota aktif pada khususnya mahasiswa Politeknik Negeri Semarang pada umumnya. Berdiri sejak 10 Oktober 1994.        </item>
+        <item>UKM Pengembangan Pengetahuan yang disingkat UKM PP merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri Semarang yang sudah cukup berumur dan dibentuk pada tanggal 12 Mei 1997. Dalam kiprahnya cukup memberikan kontribusi yang tidak bisa dianggap remeh.</item>
+        <item>KSR PMI Unit Politeknik Negeri Semarang merupakan salah satu Unit Kegiatan Mahasiswa (UKM) di lingkungan Politeknik Negeri Semarang yang berorientasi khusus pada kegiatan tugas-tugas kemanusiaan. UKM KSR didirikan pada tanggal 16 Agustus 1984 dengan nama KSR PMI Unit Undip sesuai nama dengan Politeknik saat itu, yaitu Politeknik Undip. Kemudian nama KSR PMI Unit Undip ini berubah nama menjadi KSR PMI Unit Politeknik Negeri Semarang (KSR PMI Unit Polines)pada tahun 1997. Hal ini disebabkan penyesuaian nama Politeknik yang pada tahun tersebut juga berubah menjadi Politeknik
+             Negeri Semarang hingga sekarang.</item>
+        <item>Unit Kegiatan Mahasiswa Kewirausahaan atau biasa disingkat UKM KWU, merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri Semarang yang bergerak di bidang ekonomi. UKM Kewirausahaan dipimpin oleh seorang ketua yang biasa disebut Direktur.</item>
+    <item>Kopma BM Polines merupakan Unit Kegiatan Mahasiswa (UKM) di Politeknik Negeri Semarang yang bergerak di bidang Ekonomi dan Bisnis</item>
+    </string-array>
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/fRbshsQj/kr-DTts-Ua-400x400.jpg</item>
+        <item>https://i.postimg.cc/0205sZMx/LPM.png</item>
+        <item>https://i.postimg.cc/t4PRLyPm/pecc.jpg</item>
+        <item>https://i.postimg.cc/y828kxhP/pp.png</item>
+        <item>https://i.postimg.cc/SK7LrBxw/ksr.jpg</item>
+        <item>https://i.postimg.cc/DzH4X5PH/kwu.jpg</item>
+        <item>https://i.postimg.cc/pdFXgvKc/kopmabm.png</item>
+    </string-array>
+</resources>
