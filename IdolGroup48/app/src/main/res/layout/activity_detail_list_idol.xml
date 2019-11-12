@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/ColorMarine"
+    android:orientation="vertical"
+    tools:context=".DetailListIdol">
+
+    <TextView
+        android:id="@+id/name_idol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama Anggota JKT48"
+        android:background="@drawable/shape3"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="450px"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="450px"
+            android:layout_marginTop="15dp"
+            android:id="@+id/img_detail"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="inherit"
+        android:id="@+id/desc_detail"
+        android:padding="5px"
+        android:text="desc"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
